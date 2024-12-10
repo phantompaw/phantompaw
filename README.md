@@ -25,9 +25,9 @@
 
 ## 📊 GitHub Stats
 <div style="display: flex;">
-<img alt="top langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantompaw&layout=donut&theme=dracula"/>
-<img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=phantompaw&show_icons=true&theme=dracula"/>
-<img alt="top langs" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantompaw&theme=dracula"/>
+  <img alt="top langs" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phantompaw&layout=donut&theme=dracula"/>
+  <img alt="top langs" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phantompaw&theme=dracula"/>
+  <img alt="my stats" align="center" src="https://github-readme-stats.vercel.app/api?username=phantompaw&show_icons=true&theme=dracula"/>
 </div>
 ---
 
